@@ -2,7 +2,8 @@
 This repository includes codes for cleaning Townsend Household Annual data <br>
 
 ## LIST OF FILES
-1. province_recode: fix coding mistakes in province variable <br>
+- combineTownsend.R: combine data by year using roster number
+- province_recode.R: fix coding mistakes in province variable <br>
 
 ## WORKFLOW
 - Select only the necessary variables to reduce computer's load. (Each file contains only certain sets of variables) <br>  
