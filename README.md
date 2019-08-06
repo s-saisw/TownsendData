@@ -1,5 +1,6 @@
 # TownsendData
-This repository includes codes for cleaning Townsend Household Annual data <br>
+Data: refers to Townsend Household Annual data <br>
+This repository includes codes for cleaning and generating simple trends <br>
 
 ## LIST OF FILES
 - combineTownsend.R: combine data by year using roster number
